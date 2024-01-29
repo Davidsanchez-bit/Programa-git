@@ -1,0 +1,32 @@
+[ {
+    "Nombre":"Simón Bolivar",
+    "Ubicación":"Salitre",
+    "abierto":"No"
+ },
+    
+    {
+    "Nombre":"Parque Nacional",
+    "Ubicación":"Chapinero",
+    "abierto":"Si"
+ },
+
+
+ {
+    "Nombre":"Salitre Magico",
+    "Ubicación":"Salitre",
+    "abierto":"Si"
+},
+
+{
+    "Nombre":"Parque el Virrey",  
+    "Ubicación":"Virrey",
+    "abierto":"Si"
+
+},
+{
+    "Nombre":"Parque Bicentenario",
+    "Ubicación":"Centro de Bogotá",
+    "abierto":"No"
+}
+
+]
